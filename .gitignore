@@ -1,0 +1,17 @@
+# Secretos y Variables de Entorno
+.env
+.streamlit/secrets.toml
+
+# Entornos Virtuales
+venv/
+env/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
